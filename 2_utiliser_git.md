@@ -237,3 +237,5 @@ On regarde le résultat sur le site web
 Voilà pour cette première partie.
 
 Créez autant de projets, ou ajouter autant de fichiers, jusqu'à ce que vous maîtrisiez ces commandes de base.
+
+[Créer une branche](./3_créer_une_branche.md)

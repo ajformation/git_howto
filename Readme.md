@@ -11,3 +11,4 @@ Petit howto pour commencer gentiment la maîtrise de git.
 
 - [Prérequis](./1_Prerequis.md)
 - [Utiliser Git](./2_utiliser_git.md)
+- [Créer une branche](./3_créer_une_branche.md)
